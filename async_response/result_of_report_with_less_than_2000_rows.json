@@ -1,0 +1,328 @@
+{
+  "attributes": {
+    "completionDate": "2017-09-29T12:52:05Z",
+    "errorMessage": null,
+    "id": "0LG2800000Dv7D3GAJ",
+    "ownerId": "005280000044FMDAA2",
+    "queryable": false,
+    "reportId": "00O28000009oBu4EAE",
+    "reportName": "Opportunity Report",
+    "requestDate": "2017-09-29T12:52:05Z",
+    "showDetailedErrorToUser": false,
+    "status": "Success",
+    "type": "ReportInstance"
+  },
+  "allData": true,
+  "factMap": {
+    "T!T": {
+      "aggregates": [
+        {
+          "label": "2",
+          "value": 2
+        }
+      ],
+      "rows": [
+        {
+          "dataCells": [
+            {
+              "label": "Opportunity1",
+              "value": "0062800000NFi1kAAD"
+            },
+            {
+              "label": "-",
+              "value": null
+            },
+            {
+              "label": "-",
+              "value": null
+            },
+            {
+              "label": "-",
+              "value": null
+            },
+            {
+              "label": "-",
+              "value": null
+            },
+            {
+              "label": "-",
+              "value": null
+            },
+            {
+              "label": "-",
+              "value": null
+            },
+            {
+              "label": "8/30/2017",
+              "value": "2017-08-30"
+            },
+            {
+              "label": "-",
+              "value": null
+            },
+            {
+              "label": "Needs Analysis",
+              "value": "Needs Analysis"
+            },
+            {
+              "label": "20%",
+              "value": 20
+            },
+            {
+              "label": "Q3-2017",
+              "value": "Q3-2017"
+            },
+            {
+              "label": "30",
+              "value": 30
+            },
+            {
+              "label": "8/30/2017",
+              "value": "2017-08-30"
+            },
+            {
+              "label": "Mathan Raj",
+              "value": "005280000044FMDAA2"
+            },
+            {
+              "label": "-",
+              "value": null
+            },
+            {
+              "label": "-",
+              "value": null
+            }
+          ]
+        },
+        {
+          "dataCells": [
+            {
+              "label": "Opportunity2",
+              "value": "0062800000NFi1zAAD"
+            },
+            {
+              "label": "-",
+              "value": null
+            },
+            {
+              "label": "12,212,121,212",
+              "value": 12212121212
+            },
+            {
+              "label": "1.34567",
+              "value": "1.34567"
+            },
+            {
+              "label": "-",
+              "value": null
+            },
+            {
+              "label": "-",
+              "value": null
+            },
+            {
+              "label": "-",
+              "value": null
+            },
+            {
+              "label": "8/31/2017",
+              "value": "2017-08-31"
+            },
+            {
+              "label": "-",
+              "value": null
+            },
+            {
+              "label": "Needs Analysis",
+              "value": "Needs Analysis"
+            },
+            {
+              "label": "20%",
+              "value": 20
+            },
+            {
+              "label": "Q3-2017",
+              "value": "Q3-2017"
+            },
+            {
+              "label": "30",
+              "value": 30
+            },
+            {
+              "label": "8/30/2017",
+              "value": "2017-08-30"
+            },
+            {
+              "label": "Mathan Raj",
+              "value": "005280000044FMDAA2"
+            },
+            {
+              "label": "-",
+              "value": null
+            },
+            {
+              "label": "-",
+              "value": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "groupingsAcross": {
+    "groupings": []
+  },
+  "groupingsDown": {
+    "groupings": []
+  },
+  "hasDetailRows": true,
+  "picklistColors": {},
+  "reportExtendedMetadata": {
+    "aggregateColumnInfo": {
+      "RowCount": {
+        "dataType": "int",
+        "label": "Record Count"
+      }
+    },
+    "availableDashboardSettings": null,
+    "detailColumnInfo": {
+      "OPPORTUNITY_NAME": {
+        "dataType": "string",
+        "label": "Opportunity Name"
+      },
+      "TYPE": {
+        "dataType": "picklist",
+        "label": "Type"
+      },
+      "Opportunity.LargeNumber__c": {
+        "dataType": "double",
+        "label": "LargeNumber"
+      },
+      "Opportunity.OrderNumber__c": {
+        "dataType": "string",
+        "label": "Order Number"
+      },
+      "LEAD_SOURCE": {
+        "dataType": "picklist",
+        "label": "Lead Source"
+      },
+      "AMOUNT": {
+        "dataType": "currency",
+        "label": "Amount"
+      },
+      "EXP_AMOUNT": {
+        "dataType": "currency",
+        "label": "Expected Revenue"
+      },
+      "CLOSE_DATE": {
+        "dataType": "date",
+        "label": "Close Date"
+      },
+      "NEXT_STEP": {
+        "dataType": "string",
+        "label": "Next Step"
+      },
+      "STAGE_NAME": {
+        "dataType": "picklist",
+        "label": "Stage"
+      },
+      "PROBABILITY": {
+        "dataType": "percent",
+        "label": "Probability (%)"
+      },
+      "FISCAL_QUARTER": {
+        "dataType": "string",
+        "label": "Fiscal Period"
+      },
+      "AGE": {
+        "dataType": "double",
+        "label": "Age"
+      },
+      "CREATED_DATE": {
+        "dataType": "date",
+        "label": "Created Date"
+      },
+      "FULL_NAME": {
+        "dataType": "string",
+        "label": "Opportunity Owner"
+      },
+      "ROLLUP_DESCRIPTION": {
+        "dataType": "string",
+        "label": "Owner Role"
+      },
+      "ACCOUNT_NAME": {
+        "dataType": "string",
+        "label": "Account Name"
+      }
+    },
+    "groupingColumnInfo": {}
+  },
+  "reportMetadata": {
+    "aggregates": [
+      "RowCount"
+    ],
+    "chart": null,
+    "crossFilters": [],
+    "currency": null,
+    "dashboardSetting": null,
+    "description": null,
+    "detailColumns": [
+      "OPPORTUNITY_NAME",
+      "TYPE",
+      "Opportunity.LargeNumber__c",
+      "Opportunity.OrderNumber__c",
+      "LEAD_SOURCE",
+      "AMOUNT",
+      "EXP_AMOUNT",
+      "CLOSE_DATE",
+      "NEXT_STEP",
+      "STAGE_NAME",
+      "PROBABILITY",
+      "FISCAL_QUARTER",
+      "AGE",
+      "CREATED_DATE",
+      "FULL_NAME",
+      "ROLLUP_DESCRIPTION",
+      "ACCOUNT_NAME"
+    ],
+    "developerName": "Opportunity_Report",
+    "division": null,
+    "folderId": "005280000044FMDAA2",
+    "groupingsAcross": [],
+    "groupingsDown": [],
+    "hasDetailRows": true,
+    "hasRecordCount": true,
+    "historicalSnapshotDates": [],
+    "id": "00O28000009oBu4EAE",
+    "name": "Opportunity Report",
+    "reportBooleanFilter": null,
+    "reportFilters": [],
+    "reportFormat": "TABULAR",
+    "reportType": {
+      "label": "Opportunities",
+      "type": "Opportunity"
+    },
+    "scope": "organization",
+    "showGrandTotal": true,
+    "showSubtotals": true,
+    "sortBy": [],
+    "standardDateFilter": {
+      "column": "CLOSE_DATE",
+      "durationValue": "CUSTOM",
+      "endDate": "2017-09-30",
+      "startDate": "2017-07-20"
+    },
+    "standardFilters": [
+      {
+        "name": "open",
+        "value": "all"
+      },
+      {
+        "name": "probability",
+        "value": ">0"
+      }
+    ],
+    "supportsRoleHierarchy": true,
+    "userOrHierarchyFilterId": null
+  }
+}
